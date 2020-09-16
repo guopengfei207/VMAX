@@ -13,5 +13,6 @@ ax.tick_params(labelcolor='k', labelsize=20, width=3)
 # fig.tight_layout() # 调整整体空白
 # plt.subplots_adjust(wspace=0.05, hspace=0.15)  # 调整子图间距
 
+
 plt.xticks([0,1,2], ['label_1','label_2','label_3']) 
 plt.show()
